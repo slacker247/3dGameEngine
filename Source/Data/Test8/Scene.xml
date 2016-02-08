@@ -1,0 +1,89 @@
+<Scene>
+	<Assets>
+		<Asset>
+			<Name>Camera001</Name>
+			<Type>camera</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Cameras/Camera001.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Camera001.Target</Name>
+			<Type>camera</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Cameras/Camera001.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Direct001</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Lights/Direct001.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Direct001.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Lights/Direct001.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Box001</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Models/Box001.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Box002</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Models/Box002.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Box003</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Models/Box003.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Box004</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Models/Box004.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Box005</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Models/Box005.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Z Axis</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Models/Z Axis.xml</File>
+		</Asset>
+		<Asset>
+			<Name>02 - Z Axis Color</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Materials/02 - Z Axis Color.xml</File>
+		</Asset>
+		<Asset>
+			<Name>X Axis</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Models/X Axis.xml</File>
+		</Asset>
+		<Asset>
+			<Name>01 - X Axis Color</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Materials/01 - X Axis Color.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Y Axis</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Models/Y Axis.xml</File>
+		</Asset>
+		<Asset>
+			<Name>03 - Y Axis Color</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Materials/03 - Y Axis Color.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Light Helper001</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Models/Light Helper001.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Light Color</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test8/Materials/Light Color.xml</File>
+		</Asset>
+	</Assets>
+</Scene>

@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{7529f5e3-27d2-4771-aa8d-4bf3758062a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderers">
+      <UniqueIdentifier>{1d2d2868-4363-408e-a448-aee8f50080f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{272e15bd-fff8-4f31-9193-afc45e603bc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Loaders">
+      <UniqueIdentifier>{c03def90-14c9-4858-8e82-7cab2f00c132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>
+      </Extensions>
+    </Filter>
+    <Filter Include="GameLoop">
+      <UniqueIdentifier>{d65b012c-7309-4edd-b8ab-ad2183574fed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{57a433ac-9dc3-4aac-bda3-cb2a3bbbb747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Helpers">
+      <UniqueIdentifier>{acd3c0a4-0ce2-4f5f-b43d-d1700fa9d96a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{5092f157-4911-4f69-b447-803100846c0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderers\OpenGL">
+      <UniqueIdentifier>{dcb029b5-661c-437c-8934-563b83db0f50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testing">
+      <UniqueIdentifier>{1663adbb-532e-4743-aa9e-7d0023b07d12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testing\Math">
+      <UniqueIdentifier>{99ca3077-63d9-4dde-9fc2-6f27c9a9d26b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testing\Loaders">
+      <UniqueIdentifier>{ae6a2c53-25ab-4dd2-babd-2285872f3b87}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="Settings.xml">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Engine.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Bone.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyFrame.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Skeleton.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Renderers</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Polygon.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Vertex.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadBMP.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadXML.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadImage.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadModel.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadAsset.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Settings.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderSettings.cpp">
+      <Filter>Renderers</Filter>
+    </ClCompile>
+    <ClCompile Include="GameLoop.cpp">
+      <Filter>GameLoop</Filter>
+    </ClCompile>
+    <ClCompile Include="GLWin32.cpp">
+      <Filter>GameLoop</Filter>
+    </ClCompile>
+    <ClCompile Include="GLXWin.cpp">
+      <Filter>GameLoop</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="String.cpp">
+      <Filter>Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadState.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Asset.cpp">
+      <Filter>Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadScene.cpp">
+      <Filter>Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenGLRender.cpp">
+      <Filter>Renderers\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawPrims.cpp">
+      <Filter>Renderers\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixTest.cpp">
+      <Filter>Testing\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="TestLoadAsset.cpp">
+      <Filter>Testing\Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread.cpp">
+      <Filter>Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="Cinematic.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Bone.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyFrame.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Skeleton.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Renderer.h">
+      <Filter>Renderers</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Vertex.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Polygon.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadBMP.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadXML.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadImage.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadModel.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadAsset.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderSettings.h">
+      <Filter>Renderers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameLoop.h">
+      <Filter>GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="GLXWin.h">
+      <Filter>GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="GLWin32.h">
+      <Filter>GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="PixelFormatDescriptor.h">
+      <Filter>GameLoop</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="String.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadState.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Asset.h">
+      <Filter>Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadScene.h">
+      <Filter>Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenGLRender.h">
+      <Filter>Renderers\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawPrims.h">
+      <Filter>Renderers\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixTest.h">
+      <Filter>Testing\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="TestLoadAsset.h">
+      <Filter>Testing\Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Thread.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Cinematic.h">
+      <Filter>States</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Engine.rc" />
+  </ItemGroup>
+</Project>

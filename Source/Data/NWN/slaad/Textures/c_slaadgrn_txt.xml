@@ -1,0 +1,9 @@
+<Texture>
+	<Name>
+		c_slaadgrn_txt
+	</Name>
+			<FileName>X:\Data\3d Models\NWN\MainData\slaad\c_slaadgrn.bmp</FileName>
+			<StartTime>0f</StartTime>
+			<PlaybackRate>1.0</PlaybackRate>
+			<EndCondition>0</EndCondition>
+</Texture>

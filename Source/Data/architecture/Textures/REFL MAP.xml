@@ -1,0 +1,9 @@
+<Texture>
+	<Name>
+		REFL MAP
+	</Name>
+			<FileName>Refmap.gif</FileName>
+			<StartTime>0f</StartTime>
+			<PlaybackRate>1.0</PlaybackRate>
+			<EndCondition>0</EndCondition>
+</Texture>

@@ -1,0 +1,9 @@
+<Texture>
+	<Name>
+		Map #1
+	</Name>
+			<FileName>D:\Projects\Games\Engine2\2d Art\LiuJing_texture.bmp</FileName>
+			<StartTime>0f</StartTime>
+			<PlaybackRate>1.0</PlaybackRate>
+			<EndCondition>0</EndCondition>
+</Texture>

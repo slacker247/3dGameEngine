@@ -1,0 +1,18 @@
+#pragma once
+
+/////////////////////////////////////////////////////////
+/// Class: name
+///
+/// <author></author>
+///
+/// <version></version>
+///
+/// <summary></summary>
+/////////////////////////////////////////////////////////
+class Asset
+{
+public:
+	Asset(void);
+	~Asset(void);
+};
+

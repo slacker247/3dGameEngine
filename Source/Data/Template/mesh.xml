@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mesh>
+    <name></name>
+    
+    <material>
+        <file></file>
+    </material>
+
+    <animations>
+        <animation>
+            <file></file>
+        </animation>
+    </animations>
+    
+    <polygons>
+        <polygon><!--Face-->
+            <index></index>
+            <verticies>
+                <vertex>
+                    <index></index>
+                    <x></x>
+                    <y></y>
+                    <z></z>
+                    <normal>
+                        <x></x>
+                        <y></y>
+                        <z></z>
+                    </normal>
+                    <color>
+                        <red></red>
+                        <green></green>
+                        <blue></blue>
+                    </color>
+                    <textCoord>
+                        <x></x>
+                        <y></y>
+                    </textCoord>
+                </vertex>
+            </verticies>
+        </polygon>
+    </polygons>
+</mesh>

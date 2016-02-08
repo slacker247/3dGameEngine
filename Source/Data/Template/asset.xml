@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset>
+    <name></name>
+
+
+    <actions>
+        <action>
+            <file></file>
+        </action>
+    </actions>
+    
+    <meshes>
+        <mesh>
+            <file></file>
+            <translation>
+                <x></x>
+                <y></y>
+                <z></z>
+            </translation>
+            <rotation>
+                <x></x>
+                <y></y>
+                <z></z>
+                <angle></angle>
+            </rotation>
+            <scale>
+                <x></x>
+                <y></y>
+                <z></z>
+            </scale>
+        </mesh>
+    </meshes>
+
+    <skeleton>
+        <file></file>
+        <weightTable>
+            <file></file>
+        </weightTable>
+        <translation>
+            <x></x>
+            <y></y>
+            <z></z>
+        </translation>
+        <rotation>
+            <x></x>
+            <y></y>
+            <z></z>
+            <angle></angle>
+        </rotation>
+        <scale>
+            <x></x>
+            <y></y>
+            <z></z>
+        </scale>
+    </skeleton>
+</asset>

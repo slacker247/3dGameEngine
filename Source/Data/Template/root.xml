@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <title></title>
+    <width></width>
+    <height></height>
+    <userInput></userInput>
+    <defualtScene></defualtScene>
+
+    <loader>
+        <file></file>
+    </loader>
+    
+    <scenes>
+        <scene>
+            <file></file>
+        </scene>
+    </scenes>
+</root>

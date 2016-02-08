@@ -1,0 +1,9 @@
+<Texture>
+	<Name>
+		DI CAT
+	</Name>
+			<FileName>cat_pro.tif</FileName>
+			<StartTime>0f</StartTime>
+			<PlaybackRate>1.0</PlaybackRate>
+			<EndCondition>0</EndCondition>
+</Texture>

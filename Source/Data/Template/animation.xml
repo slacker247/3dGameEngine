@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation>
+    <name></name>
+    <startFrame></startFrame>
+    <endFrame></endFrame>
+
+    <keys>
+        <key>
+            <frame></frame>
+            
+            <!--What about textures-->
+            <effector type=""><!--Mesh(Bone), Polygon, Vertex-->
+                <reference></reference>
+                <translation>
+                    <x></x>
+                    <y></y>
+                    <z></z>
+                </translation>
+                <rotation>
+                    <x></x>
+                    <y></y>
+                    <z></z>
+                    <angle></angle>
+                </rotation>
+                <scale>
+                    <x></x>
+                    <y></y>
+                    <z></z>
+                </scale>
+            </effector>
+        </key>
+    </keys>
+</animation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene>
+    <name></name>
+    <backgroundMusic></backgroundMusic>
+    
+    <assets>
+        <asset type=""><!--Sound, Light, Camera, Model-->
+            <file></file>
+
+            <translation>
+                <x></x>
+                <y></y>
+                <z></z>
+            </translation>
+            <rotation>
+                <x></x>
+                <y></y>
+                <z></z>
+                <angle></angle>
+            </rotation>
+            <scale>
+                <x></x>
+                <y></y>
+                <z></z>
+            </scale>
+        </asset>
+    </assets>
+</scene>

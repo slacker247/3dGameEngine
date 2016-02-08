@@ -1,0 +1,49 @@
+<Scene>
+	<Assets>
+		<Asset>
+			<Name>Sun</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\HumVee/Lights/Sun.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Com Box Light</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\HumVee/Lights/Com Box Light.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Com Box Light Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\HumVee/Lights/Com Box Light Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Aux Lighting</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\HumVee/Lights/Aux Lighting.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Aux Lighting.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\HumVee/Lights/Aux Lighting.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Com Box Light02.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\HumVee/Lights/Com Box Light02.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Com Box Light02</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\HumVee/Lights/Com Box Light02.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Hummer</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\HumVee/Models/Hummer.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Material #67</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\HumVee/Materials/Material #67.xml</File>
+		</Asset>
+	</Assets>
+</Scene>

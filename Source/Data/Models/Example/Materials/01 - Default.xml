@@ -1,0 +1,47 @@
+<material>
+	<name>
+		01 - Default
+	</name>
+	<Shader_Type>1</Shader_Type>
+	<Two_Sided>false</Two_Sided>
+	<faceted>false</faceted>
+	<Opacity_Type>0</Opacity_Type>
+	<opacity>100.0</opacity>
+	<soften>0.1</soften>
+	<Opacity_Fall_Off_Type>0</Opacity_Fall_Off_Type>
+	<Opacity_Fall_Off>0.0</Opacity_Fall_Off>
+	<Index_Of_Refraction>1.5</Index_Of_Refraction>
+	<ambient>
+	<color>
+		<r>161.0</r>
+		<g>150.0</g>
+		<b>243.0</b>
+		<a>255.0</a>
+	</color>
+	</ambient>
+	<diffuse>
+	<color>
+		<r>161.0</r>
+		<g>150.0</g>
+		<b>243.0</b>
+		<a>255.0</a>
+	</color>
+	</diffuse>
+	<specular>
+	<color>
+		<r>229.5</r>
+		<g>229.5</g>
+		<b>229.5</b>
+		<a>255.0</a>
+	</color>
+		<Specular_Level>0.0</Specular_Level>
+	</specular>
+	<glossiness>10.0</glossiness>
+	<Self_Illum>
+		<Self_Illum_Amount>0.0</Self_Illum_Amount>
+	</Self_Illum>
+	<opacity>100.0</opacity>
+	<Opacity_Type>0</Opacity_Type>
+	<Opacity_Fall_Off>0.0</Opacity_Fall_Off>
+	<Opacity_Fall_Off_Type>0</Opacity_Fall_Off_Type>
+</material>

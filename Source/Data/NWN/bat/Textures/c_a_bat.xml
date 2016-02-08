@@ -1,0 +1,9 @@
+<Texture>
+	<Name>
+		c_a_bat
+	</Name>
+			<FileName>X:\Data\3d Models\NWN\MainData\bat\c_a_bat.bmp</FileName>
+			<StartTime>0f</StartTime>
+			<PlaybackRate>1.0</PlaybackRate>
+			<EndCondition>0</EndCondition>
+</Texture>

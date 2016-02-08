@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <Platform>Win32</Platform>
+  <Renderer>OpenGL</Renderer>
+  <StatesPath>\Projects\Games\Engine2\Source\Data\states.xml</StatesPath>
+  
+  <ViewWidth>800</ViewWidth>
+  <ViewHeight>600</ViewHeight>
+</data>

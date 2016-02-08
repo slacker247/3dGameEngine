@@ -1,0 +1,84 @@
+<Scene>
+	<Assets>
+		<Asset>
+			<Name>Camera001</Name>
+			<Type>camera</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Cameras/Camera001.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Camera001.Target</Name>
+			<Type>camera</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Cameras/Camera001.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Direct001</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Lights/Direct001.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Direct001.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Lights/Direct001.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Z Axis</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Models/Z Axis.xml</File>
+		</Asset>
+		<Asset>
+			<Name>02 - Z Axis Color</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Materials/02 - Z Axis Color.xml</File>
+		</Asset>
+		<Asset>
+			<Name>X Axis</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Models/X Axis.xml</File>
+		</Asset>
+		<Asset>
+			<Name>01 - X Axis Color</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Materials/01 - X Axis Color.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Y Axis</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Models/Y Axis.xml</File>
+		</Asset>
+		<Asset>
+			<Name>03 - Y Axis Color</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Materials/03 - Y Axis Color.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Box02</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Models/Box02.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Group001</Name>
+			<Type>group</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Groups/Group001.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Box01</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Models/Box01.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Group001</Name>
+			<Type>group</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Groups/Group001.xml</File>
+		</Asset>
+		<Asset>
+			<Name>04 - Box Texture</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Materials/04 - Box Texture.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Map #1</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\Test6/Textures/Map #1.xml</File>
+		</Asset>
+	</Assets>
+</Scene>

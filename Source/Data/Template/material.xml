@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+    <name></name>
+    <wire>false</wire>
+    <two-sided>false</two-sided>
+    <faceMap>false</faceMap>
+    <faceted>false</faceted>
+    
+    <selfIllumination>
+        <color>
+            <red></red>
+            <green></green>
+            <blue></blue>
+        </color>
+        <texture>
+            <name></name>
+            <file></file>
+        </texture>
+    </selfIllumination>
+
+    <SpecHighlights>
+        <soften></soften>
+    </SpecHighlights>
+
+    <ambient>
+        <red></red>
+        <green></green>
+        <blue></blue>
+        <texture>
+            <name></name>
+            <file></file>
+        </texture>
+    </ambient>
+    <specular>
+        <red></red>
+        <green></green>
+        <blue></blue>
+        <texture>
+            <name></name>
+            <file></file>
+        </texture>
+    </specular>
+    <diffuse>
+        <red></red>
+        <green></green>
+        <blue></blue>
+        <texture>
+            <name></name>
+            <file></file>
+        </texture>
+    </diffuse>
+
+    <map type=""> <!--opacity,filterColor,bump,reflection,refraction,displacement,specLevel,glossiness-->
+        <amount></amount>
+        <texture>
+            <name></name>
+            <file></file>
+        </texture>
+    </map>
+</material>

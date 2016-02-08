@@ -1,0 +1,20 @@
+#pragma once
+
+/////////////////////////////////////////////////////////
+/// Class: name
+///
+/// <author></author>
+///
+/// <version></version>
+///
+/// <summary></summary>
+/////////////////////////////////////////////////////////
+class Loader
+{
+public:
+	Loader(void);
+	~Loader(void);
+
+
+};
+

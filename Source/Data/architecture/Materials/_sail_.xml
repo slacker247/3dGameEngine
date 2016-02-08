@@ -1,0 +1,47 @@
+<Material>
+	<Name>
+		_sail_
+	</Name>
+	<Shader_Type>1</Shader_Type>
+	<Two_Sided>true</Two_Sided>
+	<Faceted>false</Faceted>
+	<Soften>0.0</Soften>
+	<Index_Of_Refraction>1.5</Index_Of_Refraction>
+	<Ambient>
+	<Color>
+		<r>0.803922</r>
+		<g>0.803922</g>
+		<b>0.803922</b>
+		<a>1.0</a>
+	</Color>
+	</Ambient>
+	<Diffuse>
+	<Color>
+		<r>0.92549</r>
+		<g>0.92549</g>
+		<b>0.92549</b>
+		<a>1.0</a>
+	</Color>
+		<Diffuse_Map>
+			<Name>DI CAT</Name>
+		</Diffuse_Map>
+		<Diffuse_Map_Amount>100.0</Diffuse_Map_Amount>
+	</Diffuse>
+	<Specular>
+	<Color>
+		<r>1.0</r>
+		<g>1.0</g>
+		<b>1.0</b>
+		<a>1.0</a>
+	</Color>
+		<Specular_Level>35.0</Specular_Level>
+	</Specular>
+	<Glossiness>29.44</Glossiness>
+	<Self_Illum>
+		<Self_Illum_Amount>0.0</Self_Illum_Amount>
+	</Self_Illum>
+	<Opacity>1.0</Opacity>
+	<Opacity_Type>0</Opacity_Type>
+	<Opacity_Fall_Off>12.6</Opacity_Fall_Off>
+	<Opacity_Fall_Off_Type>0</Opacity_Fall_Off_Type>
+</Material>

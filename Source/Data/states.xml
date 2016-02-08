@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<Title>OpenGL Test</Title>
+	<return_action>ESCAPE</return_action>
+	<pause_game>p</pause_game>
+
+	<default>Menu</default>
+	<states>
+
+		<state>
+			<type>MenuState</type>
+			<name>Menu</name>
+			<camera>Camera001</camera>
+			<resources>D:\Projects\Games\Engine2\Source\Data/NWN/slaad/Scene.xml</resources>
+		</state>
+	</states>
+</data>

@@ -1,0 +1,13 @@
+<Material>
+	<Name>
+		glas_new
+	</Name>
+	<Ambient>
+	</Ambient>
+	<Diffuse>
+	</Diffuse>
+	<Specular>
+	</Specular>
+	<Self_Illum>
+	</Self_Illum>
+</Material>

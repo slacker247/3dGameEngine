@@ -1,0 +1,389 @@
+<Scene>
+	<Assets>
+		<Asset>
+			<Name>_cam_</Name>
+			<Type>camera</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Cameras/_cam_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_cam_.Target</Name>
+			<Type>camera</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Cameras/_cam_.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>cam_left</Name>
+			<Type>camera</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Cameras/cam_left.xml</File>
+		</Asset>
+		<Asset>
+			<Name>cam_front</Name>
+			<Type>camera</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Cameras/cam_front.xml</File>
+		</Asset>
+		<Asset>
+			<Name>cam_top</Name>
+			<Type>camera</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Cameras/cam_top.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SUN</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SUN.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SUN.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SUN.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SKY 00</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SKY 00.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SKY 00.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SKY 00.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SKY 01</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SKY 01.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SKY 01.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SKY 01.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SKY 02</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SKY 02.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SKY 02.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SKY 02.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SKY 03</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SKY 03.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot SKY 03.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot SKY 03.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot BOUNCE 00</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot BOUNCE 00.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot BOUNCE 00.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot BOUNCE 00.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot BOUNCE 01</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot BOUNCE 01.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Spot BOUNCE 01.Target</Name>
+			<Type>light</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Lights/Spot BOUNCE 01.Target.xml</File>
+		</Asset>
+		<Asset>
+			<Name>___AGUA___</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/___AGUA___.xml</File>
+		</Asset>
+		<Asset>
+			<Name>laguna_new</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/laguna_new.xml</File>
+		</Asset>
+		<Asset>
+			<Name>BUMP AGUA</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/BUMP AGUA.xml</File>
+		</Asset>
+		<Asset>
+			<Name>___GEO___</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/___GEO___.xml</File>
+		</Asset>
+		<Asset>
+			<Name>glas_new</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/glas_new.xml</File>
+		</Asset>
+		<Asset>
+			<Name>___GEO___bars</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/___GEO___bars.xml</File>
+		</Asset>
+		<Asset>
+			<Name>metal</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/metal.xml</File>
+		</Asset>
+		<Asset>
+			<Name>REFL MAP</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/REFL MAP.xml</File>
+		</Asset>
+		<Asset>
+			<Name>___BASE___</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/___BASE___.xml</File>
+		</Asset>
+		<Asset>
+			<Name>rock</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/rock.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Map #135</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/Map #135.xml</File>
+		</Asset>
+		<Asset>
+			<Name>NOISE SURFACE</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/NOISE SURFACE.xml</File>
+		</Asset>
+		<Asset>
+			<Name>REFL MIX</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/REFL MIX.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_floor_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_floor_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>floor</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/floor.xml</File>
+		</Asset>
+		<Asset>
+			<Name>NOISE MINI</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/NOISE MINI.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_stair_00_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_stair_00_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>metal</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/metal.xml</File>
+		</Asset>
+		<Asset>
+			<Name>REFL MAP</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/REFL MAP.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_stair_00_01</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_stair_00_01.xml</File>
+		</Asset>
+		<Asset>
+			<Name>metal</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/metal.xml</File>
+		</Asset>
+		<Asset>
+			<Name>REFL MAP</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/REFL MAP.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_stair_00_02</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_stair_00_02.xml</File>
+		</Asset>
+		<Asset>
+			<Name>metal</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/metal.xml</File>
+		</Asset>
+		<Asset>
+			<Name>REFL MAP</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/REFL MAP.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_stair_00_03</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_stair_00_03.xml</File>
+		</Asset>
+		<Asset>
+			<Name>metal</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/metal.xml</File>
+		</Asset>
+		<Asset>
+			<Name>REFL MAP</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/REFL MAP.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_palm_c_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_palm_c_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>tree</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/tree.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_palm_a_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_palm_a_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>tree</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/tree.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_palm_b_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_palm_b_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>tree</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/tree.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_palm_d_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_palm_d_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>tree</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/tree.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_boat_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_boat_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_boat_</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/_boat_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>REFL RAY</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/REFL RAY.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_pole_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_pole_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_boat_</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/_boat_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>REFL RAY</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/REFL RAY.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_sail_02_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_sail_02_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_sail_</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/_sail_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>DI CAT</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/DI CAT.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_sail_01_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_sail_01_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_sail_1</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/_sail_1.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Map #132</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/Map #132.xml</File>
+		</Asset>
+		<Asset>
+			<Name>_sail_00_</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/_sail_00_.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Material #24</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/Material #24.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Map #133</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/Map #133.xml</File>
+		</Asset>
+		<Asset>
+			<Name>sky</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/sky.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Material #15</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/Material #15.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Map #131</Name>
+			<Type>texture</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Textures/Map #131.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Table2</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/Table2.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Material #128</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/Material #128.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Table1</Name>
+			<Type>model</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Models/Table1.xml</File>
+		</Asset>
+		<Asset>
+			<Name>Material #66</Name>
+			<Type>material</Type>
+			<File>D:\Projects\Games\Engine2\Source\Data\architecture/Materials/Material #66.xml</File>
+		</Asset>
+	</Assets>
+</Scene>
